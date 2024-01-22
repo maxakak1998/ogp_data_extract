@@ -10,8 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
   html: ^0.15.4
-  http: ^1.0.0
-  string_validator: ^1.0.0
+  http: ^0.13.0
+  string_validator: ^0.3.0
 
 dev_dependencies:
   flutter_test:
